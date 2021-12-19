@@ -1,7 +1,10 @@
 # Deepankar Sharma
 ### Example Data Science Protfolio
 
+### Education
 
+- DU
+- IIT
 
 ### Project 1: Stock Market Analysis
 - rem Ipsum is simply dummy text of the printing and typesetting industry. 
