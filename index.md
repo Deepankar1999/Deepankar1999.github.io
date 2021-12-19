@@ -14,5 +14,5 @@
 - maining essentially unchanged. It was popularised in the 1960s with the release of Letraset 
 - eets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
- ![The Ai With Charts](/images/img.png)
+ ![The Ai With Charts](/images/img.jpg)
  
