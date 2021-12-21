@@ -49,5 +49,22 @@
 <h2 align="center">Education<img src="/images/edu.gif" width="50"></h2>
 <p align="left" >
  <b> Digboi College</b>
+ <p>2017-2020</p>
+ <p>Course:- BSc. Honours Physics</p>
 </p>  
+<hr></hr>
+
+
+ <b> Little Star Senior Secondary School</b>
+ <p>2015-2017</p>
+ <p>Course:- HSLC Physics,Mathematics,Chemistry,Computer Science(Python)</p>
+</p>  
+<hr></hr>
+
+ <b> Carmel School</b>
+ <p>2014-2015</p>
+ <p>Course:- SSLC</p>
+</p>  
+<hr></hr>
+
 
