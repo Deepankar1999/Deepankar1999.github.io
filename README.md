@@ -4,10 +4,6 @@
 
 
 <p align="center">
- 
-</p>
-
-<p align="center">
   I'm a 1st year student pursuing Bachelor's in Data Science 🎓 from Indian Institute of Technology Madras 🏛. I'm a passionate learner willing to learn and work across technologies and domains 💡. I an an explorer looking for new technologies and leverage them to solve real-life problems ✨. I'm deep into Web 🕸️ Development.
 </p>  
 
